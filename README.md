@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devanshmaurya30-creator/Leetcode-grind/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/devanshmaurya30-creator/Leetcode-grind/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/devanshmaurya30-creator/Leetcode-grind/tree/master/0344-reverse-string) |
 ## Trie
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshmaurya30-creator/Leetcode-grind/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/devanshmaurya30-creator/Leetcode-grind/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
